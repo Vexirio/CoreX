@@ -1,5 +1,5 @@
 # CoreX
-CoreX - is a powerful and dynamic Minecraft 1.21.5 build that retains the essence of the classic gameplay while adding client-side mods to enhance performance, convenience, and visuals. Designed for players who want to maximize their Minecraft experience without altering the core mechanics, it’s perfect for both single-player and multiplayer sessions. The build features carefully selected mods that optimize client performance and improve stability, all without disrupting the vanilla atmosphere. Build, explore, conquer — all the possibilities of the game are unlocked in SurgeCraft.
+CoreX - is a powerful and dynamic Minecraft 1.21.5 build that retains the essence of the classic gameplay while adding client-side mods to enhance performance, convenience, and visuals. Designed for players who want to maximize their Minecraft experience without altering the core mechanics, it’s perfect for both single-player and multiplayer sessions. The build features carefully selected mods that optimize client performance and improve stability, all without disrupting the vanilla atmosphere. Build, explore, conquer — all the possibilities of the game are unlocked in CoreX.
 
 This repository contains a mod pack for Minecraft with various licenses. Below are all the used mods, their authors, and the corresponding licenses.
 
