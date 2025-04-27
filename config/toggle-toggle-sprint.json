@@ -1,0 +1,9 @@
+{
+  "keepSprintingOnDeath": true,
+  "sprintOnJoin": true,
+  "defaultSprintState": "ON",
+  "alsoStartSprinting": true,
+  "sneakOnJoin": false,
+  "defaultSneakState": "UNCHANGED",
+  "alsoStartSneaking": true
+}

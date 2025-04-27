@@ -1,0 +1,220 @@
+{
+  "armorSettings": {
+    "shouldRender": true,
+    "originX": "LEFT",
+    "originY": "MIDDLE",
+    "x": 5,
+    "y": -20,
+    "scale": 0,
+    "helmet": {
+      "shouldRender": true,
+      "xOffset": 0,
+      "yOffset": 0
+    },
+    "chestplate": {
+      "shouldRender": true,
+      "xOffset": 0,
+      "yOffset": 14
+    },
+    "leggings": {
+      "shouldRender": true,
+      "xOffset": 0,
+      "yOffset": 28
+    },
+    "boots": {
+      "shouldRender": true,
+      "xOffset": 0,
+      "yOffset": 42
+    },
+    "hideOn": {
+      "f3": false,
+      "chat": false
+    }
+  },
+  "coordSettings": {
+    "shouldRender": true,
+    "originX": "LEFT",
+    "originY": "TOP",
+    "x": 5,
+    "y": 5,
+    "scale": 0,
+    "coordXSettings": {
+      "shouldRender": true,
+      "xOffset": 0,
+      "yOffset": 0,
+      "color": 16545905
+    },
+    "coordYSettings": {
+      "shouldRender": true,
+      "xOffset": 0,
+      "yOffset": 14,
+      "color": 10940847
+    },
+    "coordZSettings": {
+      "shouldRender": true,
+      "xOffset": 0,
+      "yOffset": 28,
+      "color": 7135740
+    },
+    "hideOn": {
+      "f3": false,
+      "chat": false
+    }
+  },
+  "directionSettings": {
+    "shouldRender": false,
+    "originX": "CENTER",
+    "originY": "TOP",
+    "x": 26,
+    "y": 19,
+    "scale": 0,
+    "includeOrdinal": false,
+    "directionColor": {
+      "s": 16758197,
+      "sw": 16763827,
+      "w": 16765367,
+      "nw": 14207720,
+      "n": 12044777,
+      "ne": 13949936,
+      "e": 16770484,
+      "se": 16765124
+    },
+    "hideOn": {
+      "f3": false,
+      "chat": false
+    }
+  },
+  "fpsSettings": {
+    "shouldRender": true,
+    "originX": "LEFT",
+    "originY": "BOTTOM",
+    "x": 5,
+    "y": -5,
+    "scale": 0,
+    "color": 15068408,
+    "hideOn": {
+      "f3": false,
+      "chat": false
+    }
+  },
+  "pingSettings": {
+    "shouldRender": true,
+    "originX": "RIGHT",
+    "originY": "BOTTOM",
+    "x": -57,
+    "y": -5,
+    "scale": 0,
+    "updateInterval": 5.0,
+    "pingColor": {
+      "first": 8778384,
+      "second": 15528581,
+      "third": 16694345,
+      "fourth": 16735345
+    },
+    "hideOn": {
+      "f3": false,
+      "chat": false
+    }
+  },
+  "clockSettings": {
+    "systemSettings": {
+      "shouldRender": true,
+      "originX": "RIGHT",
+      "originY": "BOTTOM",
+      "x": -5,
+      "y": -5,
+      "scale": 0,
+      "use12Hour": false,
+      "color": 16777215,
+      "hideOn": {
+        "f3": false,
+        "chat": false
+      }
+    },
+    "inGameSettings": {
+      "shouldRender": true,
+      "originX": "RIGHT",
+      "originY": "BOTTOM",
+      "x": -5,
+      "y": -19,
+      "scale": 0,
+      "use12Hour": false,
+      "color": {
+        "day": 16775605,
+        "night": 14076911,
+        "rain": 11915496,
+        "thunder": 9416395
+      },
+      "hideOn": {
+        "f3": false,
+        "chat": false
+      }
+    }
+  },
+  "biomeSettings": {
+    "shouldRender": false,
+    "originX": "CENTER",
+    "originY": "TOP",
+    "x": 0,
+    "y": 5,
+    "scale": 0,
+    "textGrowth": "CENTER",
+    "color": {
+      "overworld": 16777215,
+      "nether": 16545905,
+      "end": 13223907,
+      "custom": 16777215
+    },
+    "hideOn": {
+      "f3": false,
+      "chat": false
+    }
+  },
+  "inventorySettings": {
+    "shouldRender": false,
+    "originX": "RIGHT",
+    "originY": "MIDDLE",
+    "x": -5,
+    "y": 0,
+    "scale": 1,
+    "drawVertical": true,
+    "hideOn": {
+      "f3": false,
+      "chat": false
+    }
+  },
+  "handSettings": {
+    "leftHandSettings": {
+      "shouldRender": false,
+      "originX": "CENTER",
+      "originY": "BOTTOM",
+      "x": -108,
+      "y": -25,
+      "scale": 0,
+      "textureGrowth": "LEFT",
+      "showCount": true,
+      "showDurability": true,
+      "color": 16757683,
+      "hideOn": {
+        "f3": false,
+        "chat": false
+      }
+    },
+    "rightHandSettings": {
+      "shouldRender": false,
+      "originX": "CENTER",
+      "originY": "BOTTOM",
+      "x": 108,
+      "y": -25,
+      "scale": 0,
+      "textureGrowth": "RIGHT",
+      "showCount": true,
+      "showDurability": true,
+      "color": 8900331,
+      "hideOn": {
+        "f3": false,
+        "chat": false
+      }
+    }
+  }
+}
