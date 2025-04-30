@@ -1,0 +1,27 @@
+{
+  "uncap_menu_frame_rate": true,
+  "mock_battery_data": true,
+  "states": {
+    "unfocused": {
+      "frame_rate_target": 60,
+      "enable_vsync": true,
+      "run_garbage_collector": true
+    },
+    "invisible": {
+      "frame_rate_target": 60,
+      "enable_vsync": true,
+      "volume_multipliers": {
+        "master": 0.25
+      },
+      "run_garbage_collector": true
+    },
+    "hovered": {
+      "enable_vsync": true,
+      "run_garbage_collector": true
+    },
+    "abandoned": {
+      "frame_rate_target": 60,
+      "enable_vsync": true
+    }
+  }
+}

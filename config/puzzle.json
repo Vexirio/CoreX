@@ -1,0 +1,30 @@
+{
+  "disabledIntegrations": [
+    "borderlessmining",
+    "cem",
+    "citresewn",
+    "continuity",
+    "colormatic",
+    "cullleaves",
+    "dynamicfps",
+    "entity_texture_features",
+    "entity_model_features",
+    "iris",
+    "lambdabettergrass",
+    "lambdynlights"
+  ],
+  "enablePuzzleButton": false,
+  "resourcepackSplashScreen": true,
+  "unlimitedRotations": true,
+  "biggerModels": true,
+  "debugMessages": false,
+  "hasCustomSplashScreen": true,
+  "backgroundColor": -14803410,
+  "progressBarColor": -7752454,
+  "progressBarBackgroundColor": -15198171,
+  "progressFrameColor": -15658725,
+  "disableBlend": true,
+  "customBlendFunction": [
+    "off"
+  ]
+}
