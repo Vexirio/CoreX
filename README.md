@@ -11,10 +11,8 @@ This repository contains a mod pack for Minecraft with various licenses. Below a
 - **ViaFabricPlus**: [GitHub Link](https://github.com/ViaVersion/ViaFabricPlus)
 
 ### MIT
-- **calcmod**: [GitHub Link](https://github.com/js802025/calcmod)
 - **BadOptimizations**: [GitHub Link](https://github.com/imthosea/BadOptimizations)
 - **Dynamic-FPS**: [GitHub Link](https://github.com/juliand665/Dynamic-FPS)
-- **FastQuit-Forge**: [GitHub Link](https://github.com/KalebLangley/FastQuit-Forge)
 - **FerriteCore**: [GitHub Link](https://github.com/malte0811/FerriteCore)
 - **fix-keyboard-on-linux**: [GitHub Link](https://github.com/ishland/fix-keyboard-on-linux)
 - **modmenu**: [GitHub Link](https://github.com/OrnitheMC/modmenu)
@@ -24,15 +22,15 @@ This repository contains a mod pack for Minecraft with various licenses. Below a
 - **starhud**: [GitHub Link](https://github.com/Finsider/starhud)
 - **threadtweak**: [GitHub Link](https://github.com/kel-cu/threadtweak)
 - **visuality**: [GitHub Link](https://github.com/PinkGoosik/visuality)
+- **c2me**: [Github Link](https://github.com/RelativityMC/C2ME-fabric)
+- **very many players**: [Github Link](https://github.com/RelativityMC/VMP-fabric)
 
 ### Apache 2.0
-- **BetterGrassify**: [GitHub Link](https://github.com/UltimatChamp/BetterGrassify)
 - **fabric**: [GitHub Link](https://github.com/FabricMC/fabric)
 - **fabric-language-kotlin**: [GitHub Link](https://github.com/FabricMC/fabric-language-kotlin)
 
 ### LGPLv3
 - **cloth-config**: [GitHub Link](https://github.com/shedaniel/cloth-config)
-- **main-menu-credits**: [GitHub Link](https://github.com/isXander/main-menu-credits)
 - **customfov**: [GitHub Link](https://github.com/illusivesoulworks/customfov)
 - **DynamicCrosshair**: [GitHub Link](https://github.com/Crendgrim/DynamicCrosshair)
 - **gamma-utils**: [GitHub Link](https://github.com/Sjouwer/gamma-utils)
@@ -48,14 +46,8 @@ This repository contains a mod pack for Minecraft with various licenses. Below a
 ### MPL 2.0
 - **no-telemetry**: [GitHub Link](https://github.com/kb-1000/no-telemetry)
 
-### tr7zw License
-- **3d-Skin-Layers**: [GitHub Link](https://github.com/tr7zw/3d-Skin-Layers)
-
 ### PolyForm
 - **sodium**: [GitHub Link](https://github.com/CaffeineMC/sodium)
-
-### zlib
-- **toggle-toggle-sprint**: [GitHub Link](https://github.com/celestialfault/toggle-toggle-sprint)
 
 ---
 
